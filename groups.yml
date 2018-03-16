@@ -1,0 +1,4 @@
+grps:
+  - gname: devops
+  - gname: cloud
+  - gname: integration

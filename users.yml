@@ -1,0 +1,15 @@
+guest:
+ - name: anil
+ - name: vineesh
+ - name: manju
+
+staff: 
+ - name: subeen
+ - name: suraj
+ - name: vijoy
+
+employee:
+ - name: vivek
+ - name: yohesh
+ - name: sowmya
+
