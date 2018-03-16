@@ -1,3 +1,11 @@
-[nodes]
-blri4w1001.blrl.sap.corp
-blri4w1002.blrl.sap.corp
+[web]
+servera.example.com
+serverb.example.com
+
+[db]
+serverc.example.com
+serverd.example.com
+
+[nodes:children]
+web
+db
