@@ -25,9 +25,9 @@
  brew install ansible
  
 ## Lesson2: Inventory and Ansible adhoc commands 
- Documenatation in Progress
+ Documentation in Progress
 
 ## Lesson3: Creating simple playbooks
- Documenatation in Progress
+ Documentation in Progress
 ## Lession4: Ansible variables.
 Playbook for creating groups,users, assigning users to respective groups by declaring values in vars_files.
