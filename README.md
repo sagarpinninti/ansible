@@ -11,12 +11,12 @@
  ![ansible_arch](https://user-images.githubusercontent.com/31984052/37556346-acedffbe-2a1a-11e8-8370-67311433d992.png) 
  
  ## Ansible components: 
- Control-node: Where ansible is installed.
- Manage-nodes: All nodes managed by ansible.
- Modules: Preconfigured python programs available on Control-node pushed and executed on managed nodes.
- Adhoc commands: simple or individual commands ran from Control-node.
- Playbooks: Program which is written in yaml/ Json in control-node. 
-            It contains single/multiple tasks which will be executed on manage-nodes.
+ Control-node: Where ansible is installed.  
+ Manage-nodes: All nodes managed by ansible.  
+ Modules: Preconfigured python programs available on Control-node pushed and executed on managed nodes.  
+ Adhoc commands: simple or individual commands ran from Control-node.  
+ Playbooks: Program which is written in yaml/ Json in control-node.   
+            It contains single/multiple tasks which will be executed on manage-nodes.  
  
  ## Redhat family:
  #yum install ansible
