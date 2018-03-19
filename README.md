@@ -40,6 +40,8 @@
  # Dynamic Inventory
    Python program which contains hosts details generally provided by cloud providers (GCP,AWS,AZURE).  
    
+   <img width="730" alt="screen shot 2018-03-19 at 9 59 23 am" src="https://user-images.githubusercontent.com/31984052/37578211-5e08de48-2b5d-11e8-9d93-c0f766f9b7e6.png">
+
 ## Lesson3: Creating simple playbooks
  Documentation in Progress
 ## Lession4: Ansible variables.
