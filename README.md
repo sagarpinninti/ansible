@@ -41,6 +41,9 @@
    Python program which contains hosts details generally provided by cloud providers (GCP,AWS,AZURE).  
    
    <img width="730" alt="screen shot 2018-03-19 at 9 59 23 am" src="https://user-images.githubusercontent.com/31984052/37578211-5e08de48-2b5d-11e8-9d93-c0f766f9b7e6.png">
+   <img width="691" alt="screen shot 2018-03-19 at 10 02 20 am" src="https://user-images.githubusercontent.com/31984052/37578238-8e7bcffe-2b5d-11e8-8b5d-bb3cee6bcabd.png">
+<img width="688" alt="screen shot 2018-03-19 at 10 05 52 am" src="https://user-images.githubusercontent.com/31984052/37578247-9918fffe-2b5d-11e8-947d-6f29a1031d40.png">
+
 
 ## Lesson3: Creating simple playbooks
  Documentation in Progress
