@@ -33,10 +33,13 @@
 # Static Inventory: 
     It can contain list of hostnames,Ipaddress (Ungrouped Hosts).  
     Group of host hostnames,Ipaddress.(Grouped Hosts).  
-    Group of grouped hosts (Nested hosts group).   
-    <img width="283" alt="screen shot 2018-03-19 at 9 04 30 am" src="https://user-images.githubusercontent.com/31984052/37576885-a0a9a704-2b54-11e8-8599-e7c01dfe6b1d.png">
+    Group of grouped hosts (Nested hosts group).  
     
-     
+<img width="283" alt="screen shot 2018-03-19 at 9 04 30 am" src="https://user-images.githubusercontent.com/31984052/37576885-a0a9a704-2b54-11e8-8599-e7c01dfe6b1d.png">
+    
+ # Dynamic Inventory
+   Python program which contains hosts details generally provided by cloud providers (GCP,AWS,AZURE).  
+   
 ## Lesson3: Creating simple playbooks
  Documentation in Progress
 ## Lession4: Ansible variables.
