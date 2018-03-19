@@ -25,8 +25,18 @@
  brew install ansible
  
 ## Lesson2: Inventory and Ansible adhoc commands 
- Documentation in Progress
 
+# Inventory: Place where managed host details are available.  
+   Ansible deal with 2 types of inventories.  
+   a. Static Inventory.  
+   b. Dynamic Inventory.  
+# Static Inventory: 
+    It can contain list of hostnames,Ipaddress (Ungrouped Hosts).  
+    Group of host hostnames,Ipaddress.(Grouped Hosts).  
+    Group of grouped hosts (Nested hosts group).    
+    
+    
+     
 ## Lesson3: Creating simple playbooks
  Documentation in Progress
 ## Lession4: Ansible variables.
